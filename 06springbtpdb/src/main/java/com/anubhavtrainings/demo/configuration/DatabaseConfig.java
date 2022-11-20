@@ -25,7 +25,7 @@ import com.anubhavtrainings.demo.entities.Vendor;
 //@Profile("cloud")
 public class DatabaseConfig extends AbstractCloudConfig {
 
-
+	//Anubhav New changes
     /**
      * (Step 1) Parses the local environment variable VCAP_SERVICES (containing
      * cloud information) and provides a DataSource. The superclass
